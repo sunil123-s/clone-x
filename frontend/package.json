@@ -4,8 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "npx --openssl-legacy-provider vite",
-    "build": "npx vite  --openssl-legacy-provider build",
+    "dev": "npx vite",
+    "build": "npx vite build",
     "lint": "eslint .",
     "preview": "npx vite preview"
   },
